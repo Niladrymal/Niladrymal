@@ -10,7 +10,7 @@ I'm a Full-Stack Developer from Kolkata, India, with 4+ years of experience ship
 🔐 Security & APIs — RESTful API design, JWT, RBAC, third-party B2B integrations — security isn't an afterthought, it's built in.
 🌱 Domain Expertise — Fintech (AEPS/BBPS), logistics & cold storage automation, GPS tracking, AI-assisted development.
 💡 How I work — No problem is "not my job." Whether it's a legacy codebase, a tight deadline, or a system nobody wants to touch, I dig in and get it done.
-📫 Reach me — niladrymal2024@gmail.com · LinkedIn: linkedin.com/in/niladry-mal-a5b5b1146 
+📫 Reach me — niladrymal2024@gmail.com · [LinkedIn](https://linkedin.com/in/niladry-mal-a5b5b1146) 
 
 <!---
 Niladrymal/Niladrymal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
