@@ -1,16 +1,84 @@
-Hi, I'm Niladry Mal 👋
+# Hi there, I'm Niladry Mal 👋
 
-I'm a Full-Stack Developer from Kolkata, India, with 4+ years of experience shipping production-grade fintech systems, enterprise CRMs, and complex integrations. I take on hard, ambiguous problems — from encryption-grade banking APIs to real-time data pipelines — and see them through to a working, reliable solution.
+### 🚀 Full-Stack Software Engineer | Enterprise Software | Fintech | System Architecture
 
-🔭 Fintech & Payments — Building secure banking API integrations (OpenSSL encryption/decryption), B2B financial panels, and payment/recharge gateway systems that handle real financial data at scale.
-🛠️ Backend Engineering — PHP (Laravel 5–10, CodeIgniter 3), Node.js/Express.js — designing clean, high-performance architectures that hold up under real-world load.
-🎨 Frontend Engineering — React.js, Vue.js, Angular, TypeScript, JavaScript (ES6+) — turning complex business logic into fast, intuitive interfaces.
-🗄️ Data & Streaming — PostgreSQL, MySQL, SQLite, Apache Kafka — optimized queries and real-time pipelines for high-volume transactional systems.
-☁️ DevOps & Cloud — Docker, CI/CD, Git/GitHub, Linux (SSH/server config), AWS (S3) — owning deployments end-to-end, not just the code.
-🔐 Security & APIs — RESTful API design, JWT, RBAC, third-party B2B integrations — security isn't an afterthought, it's built in.
-🌱 Domain Expertise — Fintech (AEPS/BBPS), logistics & cold storage automation, GPS tracking, AI-assisted development.
-💡 How I work — No problem is "not my job." Whether it's a legacy codebase, a tight deadline, or a system nobody wants to touch, I dig in and get it done.
-📫 Reach me — niladrymal2024@gmail.com · [LinkedIn](https://linkedin.com/in/niladry-mal-a5b5b1146) 
+I'm a passionate **Full-Stack Software Engineer** from **Kolkata, India 🇮🇳**, with **4+ years of experience** building secure, scalable, and production-ready software. I specialize in **enterprise applications**, **fintech platforms**, and **high-performance backend systems**.
+
+My expertise spans designing scalable architectures, building secure banking integrations, developing modern web applications, and delivering solutions that solve real-world business challenges. I enjoy turning complex ideas into clean, maintainable, and reliable software.
+
+---
+
+## 🚀 What I Build
+
+- 🏦 Enterprise Fintech Platforms
+- 💳 Banking & Payment Gateway Integrations
+- 🔐 Secure REST APIs & Authentication Systems
+- ⚙️ Scalable Backend Architectures
+- 🌐 Modern Full-Stack Web Applications
+- 🤖 AI-Powered Applications & Integrations
+- 📊 High-Performance Database Systems
+- ☁️ Cloud-Native & Containerized Applications
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+`TypeScript` • `JavaScript` • `PHP` • `SQL`
+
+### Backend
+`NestJS` • `Node.js` • `Express.js` • `Laravel` • `CodeIgniter`
+
+### Frontend
+`React` • `Next.js` • `Vue.js` • `Angular` • `TypeScript` • `Tailwind CSS`
+
+### Databases
+`PostgreSQL` • `MySQL` • `Redis` • `SQLite`
+
+### DevOps & Cloud
+`Docker` • `Kafka` • `AWS` • `GitHub Actions` • `Linux` • `Nginx`
+
+### Tools & Technologies
+`Prisma` • `Drizzle ORM` • `Git` • `REST APIs` • `JWT` • `RBAC` • `OpenSSL`
+
+---
+
+## 🌱 Currently Learning
+
+- Enterprise Software Architecture
+- Domain-Driven Design (DDD)
+- Event-Driven Systems
+- Microservices & Distributed Systems
+- AI Agents & Large Language Models (LLMs)
+- Cloud-Native Engineering
+
+---
+
+## 💡 My Engineering Philosophy
+
+> **Build software that is secure, scalable, maintainable, and built to last.**
+
+I believe great software is more than writing code—it's about designing systems that solve real business problems, scale with growth, and remain easy to maintain for years.
+
+---
+
+## 📈 Current Focus
+
+🚀 Passionate about building intelligent web applications, enterprise software, secure banking & financial systems, and AI-powered solutions using modern technologies and scalable architectures. Building secure, scalable, and intelligent web applications AI-driven business solutions using modern software architecture.
+
+---
+
+## 🤝 Let's Connect
+
+📍 Kolkata, India
+
+📧 **Email:** niladrymal2024@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/niladry-mal-a5b5b1146
+
+---
+
+### ⭐ "Building software that businesses can trust and engineers can scale."
 
 <!---
 Niladrymal/Niladrymal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
